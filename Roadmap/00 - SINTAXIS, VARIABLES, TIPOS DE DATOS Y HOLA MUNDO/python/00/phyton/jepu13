@@ -1,0 +1,26 @@
+# https://phyton.org
+
+""" comentario en una linea """
+
+''' comentarios
+en varia lineas'''
+
+my_variable = "variable nueva"
+my_variable = "otra variable diferente"
+
+my_constante= "numero cosntante" # que puede variar
+
+my_entero = 1
+
+my_decimal = 1.5
+
+my_bool = true
+
+my_boll = false
+
+my_texto = "Textos"
+
+my texto = "Otros textos"
+PRINT ("Hola, Phyton")
+
+
